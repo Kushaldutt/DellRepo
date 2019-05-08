@@ -1,0 +1,6 @@
+class MyClass{
+           
+          main() {
+              system.out.println("This is my first class")
+                }
+}
