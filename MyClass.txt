@@ -4,10 +4,12 @@ class MyClass{
          public void set(){
                   system.out.println("New method")
                    }
+    
 
                       
            
           main() {
-              system.out.println("This is my first class")
+              system.out.println("This is my first class");
+               system.out.println("HEllo Git");
                 }
 }
