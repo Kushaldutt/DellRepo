@@ -1,4 +1,5 @@
 class MyClass{
+<<<<<<< HEAD
 
 
          public void set(){
@@ -7,6 +8,8 @@ class MyClass{
     
 
                       
+=======
+>>>>>>> parent of b240366... req:345- New file
            
           main() {
               system.out.println("This is my first class");
