@@ -10,7 +10,8 @@ class MyClass{
 
               void display()
                {
-                sys.out.println("Display method");
+                sys.out.println("Display method aded the details in Myclass**");
+                
               }
     
 
