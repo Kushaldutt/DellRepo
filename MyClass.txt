@@ -1,5 +1,5 @@
 class MyClass{
-<<<<<<< HEAD
+
 
 
          public void set(){
@@ -10,14 +10,16 @@ class MyClass{
 
               void display()
                {
+
                 sys.out.println("Display method aded the details in Myclass**");
                 
+
+                sys.out.println("Display method");
+         
+
               }
     
 
-                      
-=======
->>>>>>> parent of b240366... req:345- New file
            
           main() {
               system.out.println("This is my first class");
