@@ -4,7 +4,14 @@ class MyClass{
 
          public void set(){
                   system.out.println("New method")
+
+
                    }
+
+              void display()
+               {
+                sys.out.println("Display method");
+              }
     
 
                       
