@@ -14,10 +14,15 @@ class MyClass{
                 sys.out.println("Display method aded the details in Myclass**");
                 
 
-                sys.out.println("Display method");
+                sys.out.println("Display method")
          
 
               }
+
+
+    void displaynew(){
+               sysout
+}
     
 
            
@@ -28,5 +33,6 @@ class MyClass{
                 display();
 
                 system.out.println("Chagned in idea branch")
+               
 
 }
