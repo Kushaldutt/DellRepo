@@ -21,7 +21,7 @@ class MyClass{
 
 
     void displaynew(){
-               sysout
+               sys.out.println("This is a fetch from REmote");
 }
     
 
