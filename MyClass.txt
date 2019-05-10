@@ -24,6 +24,9 @@ class MyClass{
           main() {
               system.out.println("This is my first class");
                system.out.println("HEllo Git");
+
                 display();
-                }
+
+                system.out.println("Chagned in idea branch")
+
 }
